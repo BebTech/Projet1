@@ -1,3 +1,11 @@
 Ligne 1 : rajout pour la branche - juste avant
 
+
 NO STASH dans le newB....
+=======
+Ligne 2 : rajouter dans la bracnhe no 1
+
+Ligne 3 : idem rajouter dans la bracnhe no 1
+
+Alors STASH no1 dans NewB.txt
+
