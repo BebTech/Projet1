@@ -11,3 +11,6 @@ Alors STASH no1 dans NewB.txt
 
 10:23 AM 18-Apr-19 autre branche notofmodification
 
+
+Bon ou en est t'on autre bracnhe ? 10:45 AM 18-Apr-19 10:45 AM 18-Apr-19 (dans autreserveru)
+
